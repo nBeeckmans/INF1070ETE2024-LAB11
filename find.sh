@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Liste des scripts shell du répertoire /bin";
 
 # grep -I : ignore les fichiers binaires
