@@ -27,3 +27,17 @@ USER=Anonyme ./ave_id
 Bonjour! nb 
 Au revoir!nb
 ```
+
+
+## 2. scripts 
+
+Il faut ajouter : 
+```sh 
+#!/bin/bash
+```
+
+et s'ajouter les droits `chmod +x`. 
+
+Regarder l'exemple `find.sh`.
+
+
