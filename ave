@@ -1,0 +1,2 @@
+echo "Bonjour!" 
+echo "Au revoir!" 1>&2

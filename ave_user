@@ -1,0 +1,2 @@
+echo "Bonjour! $USER" 
+echo "Au revoir! $USER" 1>&2

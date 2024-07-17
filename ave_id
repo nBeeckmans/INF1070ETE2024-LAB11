@@ -1,0 +1,2 @@
+echo "Bonjour! $(id -un)" 
+echo "Au revoir! $(id -un)" 1>&2
